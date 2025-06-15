@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# But don't ignore these!
+!.gitignore
+!main.tf
